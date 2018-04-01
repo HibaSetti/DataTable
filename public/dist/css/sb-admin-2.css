@@ -442,15 +442,12 @@ table.dataTable thead .sorting:after {
 	background-color: transparent;
 	background-image: none;
   border-color: #28a745;
-  vertical-align: sub;
+ 
 }
 .btn-outline-danger {
 	color: #dc3545;
 	background-color: transparent;
 	background-image: none;
   border-color: #dc3545;
-  vertical-align: sub;
-}
-.btnStatut{
-  text-align: center;
+ 
 }
