@@ -432,4 +432,20 @@ table.dataTable thead .sorting:after {
     border-left-width: 0;
   }
 }
-
+.icon {
+  display: block;
+  width: 25px;
+  margin: 0 auto;
+}
+.btn-outline-success {
+	color: #28a745;
+	background-color: transparent;
+	background-image: none;
+	border-color: #28a745;
+}
+.btn-outline-danger {
+	color: #dc3545;
+	background-color: transparent;
+	background-image: none;
+	border-color: #dc3545;
+}
