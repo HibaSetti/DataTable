@@ -451,3 +451,12 @@ table.dataTable thead .sorting:after {
   border-color: #dc3545;
  
 }
+.labelp {
+  font-size: 11px;
+  display: inline-block;
+  width: 20%;
+  font-weight: 400;
+  vertical-align: -moz-middle-with-baseline;
+  vertical-align: -webkit-baseline-middle;
+  color: black;
+}
